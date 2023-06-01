@@ -1,9 +1,7 @@
 import { Component } from "react";
 
 class H3child extends Component {
-    constructor(props) {
-        super(props)
-    }
+
     render() {
        return(
         <>
